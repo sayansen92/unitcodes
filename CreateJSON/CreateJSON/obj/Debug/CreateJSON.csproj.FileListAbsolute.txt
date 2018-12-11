@@ -1,0 +1,10 @@
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\bin\Debug\CreateJSON.exe.config
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\bin\Debug\CreateJSON.exe
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\bin\Debug\CreateJSON.pdb
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\obj\Debug\CreateJSON.csprojAssemblyReference.cache
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\obj\Debug\CreateJSON.csproj.CoreCompileInputs.cache
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\obj\Debug\CreateJSON.csproj.CopyComplete
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\obj\Debug\CreateJSON.exe
+c:\users\sayan\source\repos\CreateJSON\CreateJSON\obj\Debug\CreateJSON.pdb

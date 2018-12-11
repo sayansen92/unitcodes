@@ -1,0 +1,23 @@
+<devices>
+<device>
+<uniqueIdentifier>MacAddress</uniqueIdentifier>
+<manufacturer>NIHON_KOHDEN</manufacturer>
+<deviceName>Vismo</deviceName>
+<manufactureDate>2017-04-23</manufactureDate>
+<expiryDate>2057-04-23</expiryDate>
+<deviceModel>pvm-2701</deviceModel>
+<deviceType>ECG/SPO2/NIBP</deviceType>
+<serialNo>DE10063</serialNo>
+<deviceDataFormat>network</deviceDataFormat>
+<connector>RJ45</connector>
+<status>active</status>
+<organization>fd3206b8-5f18-4194-964c-61d69cc955e7</organization>
+<dateFormat>dd-MM-yyyy HH:mm:ss</dateFormat> 
+<dateSource>System time</dateSource>
+<timeZone>Asia/Kolkata</timeZone>
+<protocol>tcp/ip</protocol>
+<deviceVersion>2016</deviceVersion>
+<software_rev>tbd</software_rev>
+</device>
+</devices>
+
