@@ -1,0 +1,12 @@
+0x00, System Configuration
+0x01, Status Configuration
+0x02, Setting Configuration
+0x03, Measurement Configuration
+0x04, Wave Configuration
+0x05, Alarm Configuration
+0x06, Test Configuration
+0x07, Threshold Configuration
+0x08, Command Configuration
+0x09, File Configuration
+0x0a, Event Configuration
+0x0b, Consumption Configuration

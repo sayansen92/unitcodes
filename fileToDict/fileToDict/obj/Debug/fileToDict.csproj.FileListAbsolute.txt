@@ -1,0 +1,7 @@
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\bin\Debug\fileToDict.exe.config
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\bin\Debug\fileToDict.exe
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\bin\Debug\fileToDict.pdb
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\obj\Debug\fileToDict.csprojAssemblyReference.cache
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\obj\Debug\fileToDict.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\obj\Debug\fileToDict.exe
+C:\Users\Sayan\source\repos\fileToDict\fileToDict\obj\Debug\fileToDict.pdb

@@ -1,0 +1,12 @@
+0x20, System Transmission
+0x21, Status Transmission
+0x22, Setting Transmission
+0x23, Measurement Transmission
+0x24, Wave Transmission
+0x25, Alarm Transmission
+0x26, Test Transmission
+0x27, Threshold Transmission
+0x28, Command Transmission
+0x29, File Transmission
+0x2a, Event Transmission
+0x2b, Consumption Transmission
