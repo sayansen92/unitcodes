@@ -1,0 +1,11 @@
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\log4net.config
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\TestLogger.exe.config
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\TestLogger.exe
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\TestLogger.pdb
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\log4net.dll
+c:\users\sayan\source\repos\TestLogger\TestLogger\bin\Debug\log4net.xml
+c:\users\sayan\source\repos\TestLogger\TestLogger\obj\Debug\TestLogger.csprojAssemblyReference.cache
+c:\users\sayan\source\repos\TestLogger\TestLogger\obj\Debug\TestLogger.csproj.CoreCompileInputs.cache
+c:\users\sayan\source\repos\TestLogger\TestLogger\obj\Debug\TestLogger.csproj.CopyComplete
+c:\users\sayan\source\repos\TestLogger\TestLogger\obj\Debug\TestLogger.exe
+c:\users\sayan\source\repos\TestLogger\TestLogger\obj\Debug\TestLogger.pdb
